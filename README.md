@@ -1,6 +1,6 @@
 # Olá. Eu sou o Hiroshi
 - 🔭 Estou em busca de atuar na área de programação
-- 🤓🖋️ Estou aprendendo atualmente Javascript, Github e React
+- 🤓 Aprendendo atualmente Javascript, Github e React
 - 🎓 Graduado em Sistema de Informação
 - 🎮 Sou apaixonado pela área de jogos digitais
 - 😄 Pronouns: ele/dele
