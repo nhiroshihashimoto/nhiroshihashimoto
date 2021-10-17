@@ -14,13 +14,13 @@
 </div>
   
 <a href="https://github.com/nhiroshihashimoto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhiroshihashimoto&show_icons=true&theme=highcontrast&bg_color=20,988181,625353,1c1717&title_color=ff5454&icon_color=ff5454&hide_border=true&hide_title=true&border_radius=15&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nhiroshihashimoto&include_all_commits&count_private=true&show_icons=true&theme=highcontrast&bg_color=20,988181,625353,1c1717&title_color=ff5454&icon_color=ff5454&hide_border=true&hide_title=true&border_radius=15&locale=pt-br" />
 </a>
 <a href="https://github.com/nhiroshihashimoto">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhiroshihashimoto&layout=compact&langs_count=5&show_icons=true&bg_color=20,988181,625353,1c1717&title_color=ff5454&icon_color=ff5454&hide_border=true&border_radius=15&locale=pt-br" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhiroshihashimoto&layout=compact&langs_count=5&show_icons=true&bg_color=20,988181,625353,1c1717&title_color=ff5454&text_color=ffffff&icon_color=ff5454&hide_border=true&border_radius=15" />
 </a>
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   Experiências:
   
   <a href="https://github.com/nhiroshihashimoto/calculator/tree/main"><img align="center" alt="Javascript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
