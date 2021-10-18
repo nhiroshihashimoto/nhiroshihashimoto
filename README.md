@@ -1,10 +1,7 @@
 # Olá. Eu sou o Hiroshi
   <div style="display: inline_block">
       <a href="https://github.com/nhiroshihashimoto">
-        <img width=495 align="right" src="https://github-readme-stats.vercel.app/api?username=nhiroshihashimoto&include_all_commits&count_private=true&show_icons=true&theme=tokyonight" />
-      </a>
-      <a href="https://github.com/nhiroshihashimoto">
-        <img width=495 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhiroshihashimoto&theme=tokyonight&layout=compact&langs_count=8&show_icons=true" />
+        <img width=450 align="right" src="https://github-readme-stats.vercel.app/api?username=nhiroshihashimoto&include_all_commits&count_private=true&show_icons=true&theme=tokyonight" />
       </a>
     <div align="left">
       - 😘 Criativo, curioso e criterioso <br>
@@ -13,12 +10,19 @@
       - 😄 Pronomes: ele/dele <br>
       - 🎓 Graduado em Sistema de Informação
      </div>
-  </div>
-<div align="center" style="display: inline_block">
   
   ##
   
+  <div align="center" style="display: inline_block">
   Experiências
+  </div>
+  
+  </div>
+      <a href="https://github.com/nhiroshihashimoto">
+        <img width=450 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhiroshihashimoto&theme=tokyonight&layout=compact&langs_count=8&show_icons=true" />
+      </a>
+<div align="center" style="display: inline_block">
+  
   
   <a href="https://github.com/nhiroshihashimoto/module_smartmath"><img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
