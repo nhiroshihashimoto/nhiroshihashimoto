@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
   <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="Photoshop" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></a>
   <a href="https://github.com/nhiroshihashimoto/aftereffects"><img align="center" alt="After Effects" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"></a>
-  <a href="https://github.com/nhiroshihashimoto/aftereffects"><img align="center" alt="Premiere Pro" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"></a>
+  <a href="https://www.youtube.com/watch?v=mf5Nfw5Qzvc"><img align="center" alt="Premiere Pro" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"></a>
   
   ##
   
