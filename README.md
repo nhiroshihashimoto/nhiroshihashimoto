@@ -26,15 +26,15 @@
   
   
   <a href="https://github.com/nhiroshihashimoto/module_smartmath"><img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-  <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
-  <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
-  <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
-  <a href="https://github.com/nhiroshihashimoto/calculator/tree/main"><img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="https://github.com/nhiroshihashimoto/calculator/tree/main"><img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
+  <a href="https://github.com/nhiroshihashimoto/java_estudo"><img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+  <a href="https://github.com/nhiroshihashimoto/c_estudo"><img align="center" alt="C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></a>
+  <a href="https://github.com/nhiroshihashimoto/cpp_estudo"><img align="center" alt="C++" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
+  <a href="https://github.com/nhiroshihashimoto/calculator"><img align="center" alt="HTML5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
+  <a href="https://github.com/nhiroshihashimoto/calculator"><img align="center" alt="CSS3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
   <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
   <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="Photoshop" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"></a>
-  <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="After Effects" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"></a>
-  <a href="https://www.linkedin.com/in/hiroshihashimoto"><img align="center" alt="Premiere Pro" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"></a>
+  <a href="https://github.com/nhiroshihashimoto/aftereffects"><img align="center" alt="After Effects" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg"></a>
+  <a href="https://github.com/nhiroshihashimoto/aftereffects"><img align="center" alt="Premiere Pro" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"></a>
   
   ##
   
